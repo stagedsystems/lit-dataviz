@@ -24,7 +24,6 @@ texttable==1.6.4
 Werkzeug==2.0.2
 igraph
 dash_auth
-git+https://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@github.com/stagedsystems/ss-integrations.git@main#egg=ss-integrations
 sqlalchemy
 azure-storage-blob
 dash-bootstrap-components
