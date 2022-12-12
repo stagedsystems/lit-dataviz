@@ -173,20 +173,9 @@ try:
         #intervals are per session. we need to somehow just refresh data once a session
         #lets do the timestamp check!?        
       
-     
-
-        #https://dev.to/naderelshehabi/securing-plotly-dash-using-flask-login-4ia2
-
-        # We need to determine two things for everytime the user navigates:
-        # Can they access this page? If so, we just return the view
-        # Otherwise, if they need to be authenticated first, we need to redirect them to the login page
-        # So we have two outputs, the first is which view we'll return
-        # The second one is a redirection to another page is needed
-        # In most cases, we won't need to redirect. Instead of having to return two variables everytime in the if statement
-        # We setup the defaults at the beginning, with redirect to dash.no_update; which simply means, just keep the requested url
+ 
         view = None
         nav = None
-
         
 
         if pathname == '/':
