@@ -1,0 +1,16 @@
+Some relevant links
+
+
+Graphs
+https://plotly.com/python/network-graphs/
+https://plotly.com/python/v3/igraph-networkx-comparison/ - I am using igraph
+
+
+Maps
+https://dash-leaflet.herokuapp.com/ - seems to be down
+
+Research on D3
+https://dash.plotly.com/d3-react-components
+
+
+
